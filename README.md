@@ -1,12 +1,24 @@
-
-<a id="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+<div align="center">
+  <!--<a id="readme-top"></a>-->
+  <a href="https://github.com/unejss/Visual-Basic-Apps/](https://github.com/unejss/Visual-Basic-Apps/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/unejss/Visual-Basic-Apps.svg?style=for-the-badge" alt="Logo" >
+    </a>
+  <a href="https://github.com/unejss/Visual-Basic-Apps/network/members">
+    <img src="https://img.shields.io/github/forks/unejss/Visual-Basic-Apps.svg?style=for-the-badge" alt="Logo">
+  </a>
+  <a href="https://github.com/unejss/Visual-Basic-Apps/stargazers">
+    <img src="https://img.shields.io/github/stars/unejss/Visual-Basic-Apps.svg?style=for-the-badge" alt="Logo">
+  </a>
+  <a href="https://github.com/unejss/Visual-Basic-Apps/issues">
+    <img src="https://img.shields.io/github/issues/unejss/Visual-Basic-Apps.svg?style=for-the-badge" alt="Logo">
+  </a>
+  <a href="https://github.com/unejss/Visual-Basic-Apps/blob/master/LICENSE.txt">
+    <img src="https://img.shields.io/github/license/unejss/Visual-Basic-Apps.svg?style=for-the-badge" alt="Logo">
+  </a>
+  <a href="https://al.linkedin.com/in/unejs-subashi-%F0%9F%AA%BC-62261b288">
+    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="Logo">
+  </a>
+</div>
 
 
 <br />
@@ -54,7 +66,7 @@
 ## About The Project
 <div align="center">
   <a href="github.com/unejss/Visual-Basic-Apps/">
-    <img src="images/screenshot.jpg" alt="Logo" width="90%">
+    <img src="images/banner2.jpg" alt="Logo" width="100%">
   </a><br>
   </div>
 <!--[![Product Name Screen Shot][product-screenshot]](github.com/unejss/Visual-Basic-Apps)-->
@@ -102,6 +114,12 @@ Project Link: [https://github.com/unejss/Visual-Basic-Apps](https://github.com/u
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!--  [![Contributors][contributors-shield]][contributors-url]
+      [![Forks][forks-shield]][forks-url]
+      [![Stargazers][stars-shield]][stars-url]
+      [![Issues][issues-shield]][issues-url]
+      [![Unlicense License][license-shield]][license-url]
+      [![LinkedIn][linkedin-shield]][linkedin-url] -->
 [contributors-shield]: https://img.shields.io/github/contributors/unejss/Visual-Basic-Apps.svg?style=for-the-badge
 [contributors-url]: https://github.com/unejss/Visual-Basic-Apps/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/unejss/Visual-Basic-Apps.svg?style=for-the-badge
