@@ -110,6 +110,6 @@ Project Link: [https://github.com/unejss/Visual-Basic-Apps](https://github.com/u
 [license-url]: https://github.com/unejss/Visual-Basic-Apps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://al.linkedin.com/in/unejs-subashi-%F0%9F%AA%BC-62261b288
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.jpg
 [Visual Basic]: https://img.shields.io/badge/Visual%20Basic-35495E?style=for-the-badge&logo=visualbasic&logoColor=4FC08D
 [Visual Basic-url]: https://vuejs.org/](https://visualstudio.microsoft.com/vs/community/
