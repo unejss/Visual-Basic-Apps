@@ -52,8 +52,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](github.com/unejss/Visual-Basic-Apps)
+<div align="center">
+  <a href="github.com/unejss/Visual-Basic-Apps/">
+    <img src="images/screenshot.jpg" alt="Logo" width="90%">
+  </a><br>
+  </div>
+<!--[![Product Name Screen Shot][product-screenshot]](github.com/unejss/Visual-Basic-Apps)-->
 
 In this repository I have created some applications using Visual Basic language from the .NET Framework Library. 
 
