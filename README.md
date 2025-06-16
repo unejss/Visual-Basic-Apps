@@ -33,7 +33,7 @@
   <p align="center">
     Visual Basic School Apps
     <br />
-    <a href="https://github.com/unejss/Visual-Basic-Apps"><strong>Explore the apps »</strong></a>
+    <a href="https://github.com/unejss/Visual-Basic-Apps/Apps"><strong>Explore the apps »</strong></a>
     <br />
     <br />
     <a href="https://github.com/unejss/Visual-Basic-Apps">View Demo</a>
@@ -75,10 +75,10 @@
 In this repository I have created some applications using Visual Basic language from the .NET Framework Library. 
 
 Applications are:
-* Palidrome [📥](https://github.com/unejss/Visual-Basic-Apps/blob/main/Palidrom%C3%AB_App.rar)
-* Palidrome [📥](https://github.com/unejss/Visual-Basic-Apps/blob/main/Palidrom%C3%AB_App.rar)
-* Palidrome [📥](https://github.com/unejss/Visual-Basic-Apps/blob/main/Palidrom%C3%AB_App.rar)
-* Palidrome [📥](https://github.com/unejss/Visual-Basic-Apps/blob/main/Palidrom%C3%AB_App.rar)
+* Palindrome [📥](https://github.com/unejss/Visual-Basic-Apps/blob/main/Apps/Palindrome.rar)
+* Faktorial [📥](https://github.com/unejss/Visual-Basic-Apps/blob/main/Apps/Faktorial.rar)
+* SumOfSeries [📥](https://github.com/unejss/Visual-Basic-Apps/blob/main/Apps/SumOfSeries.rar)
+* Formular [📥](https://github.com/unejss/Visual-Basic-Apps/blob/main/Apps/Formular.rar)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
